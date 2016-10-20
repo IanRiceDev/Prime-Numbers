@@ -20,19 +20,19 @@ def check_if_prime(numberinput):
             message = numbertest+" is a prime number number."
             break
         if m2 in notPrimes:
-            message = numbertest+" is not a prime number."
+           # message = numbertest+" is not a prime number."
             break
         if m2 % 2 == 0:
-            message = numbertest+" is not a prime number."
+            #message = numbertest+" is not a prime number."
             break
         if m2 % 3 == 0:
-            message = numbertest+" is not a prime number."
+           # message = numbertest+" is not a prime number."
             break
         if m2 % 5 == 0:
-            message = numbertest+" is not a prime number."
+            #message = numbertest+" is not a prime number."
             break
         if m2 % 7 == 0:
-            message = numbertest+" is not a prime number."
+            #message = numbertest+" is not a prime number."
             break
         else:
             message = numbertest+" is a prime number."
