@@ -15,11 +15,15 @@ while True:
         baseNum = numberoutput
         m2 = baseNum
         break
-    else:
+
+
+for prime in basePrimes:
+
+    if m2 % 2 == 0:
+        message = numberinput + " is not a prime number."
         break
 
-for prime in basePrimes :
-    if m2 % prime == 0:
+    if m2 % 3 == 0:
         message = numberinput + " is not a prime number."
         break
 
@@ -33,7 +37,7 @@ if m2 in basePrimes:
 
 if m2 in notPrimes:
     message = numberinput + " is not a prime number."
-    
+
 
 print("\n")
 print(message)
