@@ -33,6 +33,6 @@ while True:
         message = numberinput+" is not a prime number."
         break
     else:
-        message = numberoutput+" is a prime number."
+        message = numberinput+" is a prime number."
         break
 print(message)
