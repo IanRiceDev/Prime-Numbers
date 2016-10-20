@@ -41,4 +41,4 @@ while True:
 print("\n")
 print(message)
 print("\n")
-#input("Press the enter key to exit")
+input("Press the enter key to exit")
