@@ -1,2 +1,4 @@
 # Prime-Numbers
-###Current status = Bugged test file.
+
+###Current status = Working.
+
