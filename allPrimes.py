@@ -1,3 +1,4 @@
+# prints primes to a givin range 
 import primeclass
 z = 1
 
