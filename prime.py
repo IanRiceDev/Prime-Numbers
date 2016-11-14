@@ -1,3 +1,4 @@
+# standalone prime program
 numberinput = input("Type any number to see if it is a prime number: ")
 
 message = ""
