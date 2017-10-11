@@ -1,4 +1,4 @@
 # Prime-Numbers
 
-###Current status = Working.
+### Current status = Working kind of.
 
