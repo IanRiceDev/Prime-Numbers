@@ -1,6 +1,6 @@
 import sys
 
-notPrime = [0,1]
+notPrime = [0, 1]
 basePrimes = [2, 3, 5, 7]
 userInput = int(input())
 
@@ -20,10 +20,10 @@ def checkNumbers(numToCheck,num):
 checkNotPrimes(userInput)
 checkBasePrimes(userInput)
 
-checkNumbers(userInput,2)
-checkNumbers(userInput,3)
-checkNumbers(userInput,5)
-checkNumbers(userInput,7)
+checkNumbers(userInput, 2)
+checkNumbers(userInput, 3)
+checkNumbers(userInput, 5)
+checkNumbers(userInput, 7)
 userInput = str(userInput)
 
 print(userInput + " is a prime number")
