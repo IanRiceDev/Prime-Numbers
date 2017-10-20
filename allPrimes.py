@@ -11,3 +11,4 @@ while i < 100:
     i += 1
     z += 1
 # loop to print primes to screen
+input()

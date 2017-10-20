@@ -3,7 +3,8 @@ numberinput = input("Cheak prime: ")
 message = ""
 basePrimes = [2,3,5,7]
 notPrimes = [0,1]
-
+from sys import exit
+exit()
 
 while True:
 
